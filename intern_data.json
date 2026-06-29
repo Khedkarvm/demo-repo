@@ -1,0 +1,26 @@
+[
+    {
+        "intern_id": "INT001",
+        "name": "Nikita",
+        "role": "Gen Ai Engineer",
+        "status": "Active",
+        "daily_hours": [
+            8.0
+        ],
+        "daily_tasks": [
+            "Capstone Project"
+        ]
+    },
+    {
+        "intern_id": "INT002",
+        "name": "Vaishnavi",
+        "role": "Gen Ai Engineer",
+        "status": "Active",
+        "daily_hours": [
+            8.0
+        ],
+        "daily_tasks": [
+            "Capstone Project"
+        ]
+    }
+]
